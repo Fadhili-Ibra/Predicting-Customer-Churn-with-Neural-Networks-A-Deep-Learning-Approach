@@ -1,7 +1,7 @@
 **Project Title:** Predicting Customer Churn with Neural Networks: A Deep Learning Approach
 
 **Project Overview:**
-In this project, we aim to develop a machine learning model based on artificial neural networks to predict customer churn in a telecommunications company. Customer churn, or the loss of customers, is a critical concern for businesses, and predicting it accurately can help companies take proactive measures to retain valuable customers. 
+In this project, we aim to develop a machine learning model based on artificial neural networks to predict customer churn in a company. Customer churn, or the loss of customers, is a critical concern for businesses, and predicting it accurately can help companies take proactive measures to retain valuable customers. 
 
 **Objectives:**
 1. **Data Preprocessing:**
